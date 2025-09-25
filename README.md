@@ -1,18 +1,10 @@
-# COMP360 — 3D Terrain Prototype
+# COMP360 — 2D and 3D Images
 
-## Folder structure
-```
-World.tscn                     # main scene (Node3D + Camera3D + Light)
-scripts/
-  World.gd                     # orchestrates generation → mesh → material
-  NoiseParams.gd               # seed, frequency, octaves, gain, lacunarity, sample_scale
-  Heightmap.gd                 # builds grayscale Image via FastNoiseLite (Cellular+FBM)
-  TerrainMeshBuilder.gd        # builds quad grid; UVs; samples 4 corner pixels (red)
+## Folder Structure
+We generated a 2D image with FastNoiseLite using multiple octaves of cellular noise and created a grid of 3D quads with the height of their vertices controlled by an image created using FastNoiseLite for a more natural-looking landscape.
 
-## Roles & individual responsibilities (7 people)
+(Code goes here).
 
+## Roles (7 people)
 
----
-
-## Contributing (team workflow)
-
+We each created our own images and we voted on which 2D and 3D images to use for our submission.

@@ -4,9 +4,6 @@ We generated a 2D image with FastNoiseLite using multiple octaves of cellular no
 
 ## Roles (7 people)
 
-We each created our own images and we voted on which 2D and 3D images to use for our submission. <br>
-We voted on our discord and we decied to use Easton's image for the 2D image and for the 3D image, to use Bilal's image.
-
 ### Planning and Logging
 - All members created their own 2D and 3D attempts. 
 - We shared and voted on Discord to decide which images to submit.

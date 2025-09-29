@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://dqe447u0au2qh"]
 
-[ext_resource type="Script" path="res://Scripts/2D/WoodGrain2DImage.gd" id="1_tnr8y"]
+[ext_resource type="Script" uid="uid://bbjsewvkk5a3o" path="res://Scripts/2D/WoodGrain2DImage.gd" id="1_tnr8y"]
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_tnr8y")

@@ -14,8 +14,6 @@ We voted on our discord and we decied to use Easton's image for the 2D image and
 
 [View all Discord proof screenshots](2D%20and%203D%20Image%20Attempts)
 
-
-
 ## Scripts
 
 Easton's Code:

@@ -14,14 +14,15 @@ Easton's Code:
 [WoodGrain2DImage.gd](Scripts/2D/WoodGrain2DImage.gd)
 
 2D Image:
-![alt text](2D.png)
+
+![alt text](image.png)
 
 Bilal's Code:
 
 [mesh_instance_3d.gd](Scripts/3D/mesh_instance_3d.gd)
 
 3D Image:
-![alt text](3d.jpg)
+![alt text](image-1.png)
 
 
 ## Scenes

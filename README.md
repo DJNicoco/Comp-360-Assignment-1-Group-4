@@ -25,14 +25,15 @@ Based on his research ([YouTube tutorial](https://www.youtube.com/watch?v=6qim01
 [mesh_instance_3d.gd](Scripts/3D/mesh_instance_3d.gd)
 
 3D Image:
-![alt text](image-1.png)
 
+![alt text](3D.png)
 
 ## Scenes
 
 Easton's code:
 
-[wood_grain_2d.tscn](Scenes/wood_grain_2d.tscn)
+[wood_grain_2d.tscn](Scenes/2D/wood_grain_2d.tscn)
 
 Bilal's code:
 
+[3dLandscape.tscn](Scenes/3D/3dLandscape.tscn)
